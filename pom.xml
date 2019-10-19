@@ -35,6 +35,9 @@
         <module>hibernate-onetoone</module>
         <module>hibernate-hql</module>
         <module>jdbc-sql-injection</module>
+        <module>hibernate-criteria</module>
+        <module>hibernate-inheritance</module>
+        <module>hibernate-custom-type</module>
     </modules>
 
 </project>
