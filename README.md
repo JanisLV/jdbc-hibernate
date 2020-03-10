@@ -11,7 +11,7 @@ Some of the topics you'll learn are:
 - Hibernare Query Language /  Java Persistence Query Language
 
 ## Presentation
-The presentation is available under [this link](https://gitlab.com/sda-international/program/java/jdbc-hibernate/-/wikis/uploads/839374c411c3982c14c5440a3b191c6e/10_JDBC___Hibernate.pdf)
+The presentation is available under [this link](https://gitlab.com/sda-international/program/java/jdbc-hibernate/-/wikis/uploads/799d4f224cbbf79b7c4e479d1e776fca/10_JDBC_and_Hibernate.pdf)
 
 ## Books
 1. [JDBC Pocket Reference](https://www.goodreads.com/book/show/853191.JDBC_Pocket_Reference)
